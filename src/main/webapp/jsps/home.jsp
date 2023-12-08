@@ -13,7 +13,8 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising IT professionals in over 50 nations.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-	We also use Jenkins in our enviroment to monitor and automate the build for all our web servers. </h1>
+	We also use Jenkins in our enviroment to monitor and automate the build for all our web servers. 
+        We beleive that automation is the key for succes in any cloud management positions. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
